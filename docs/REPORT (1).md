@@ -4,10 +4,16 @@
 
 - **Nama Kelompok:** Yakuza
 - **Anggota:**
-  1. Anggota 1 — NIM 001 — Varian 01: Single Layer (tanpa hidden layer)
-  2. Anggota 2 — NIM 002 — Varian 02: MLP 1 hidden layer, aktivasi Sigmoid
-  3. Anggota 3 — NIM 003 — Varian 03: MLP 1 hidden layer, aktivasi Tanh
-  4. Anggota 4 — NIM 004 — Varian 04: MLP 2 hidden layer (32→16), aktivasi ReLU
+
+| No. | Nama | NIM | Pembagian Tugas |
+|--------|-----------|----------|------------|
+| 1. | Hendrawan Wijaya | 32230055 | Varian 03: MLP 1 hidden layer, aktivasi Tanh |
+| 2. | Khetta Ajnatavindriya Likito | 32230059 | Varian 01: Single Layer |
+| 3. | Calvin Ang | 32230067 | Varian 02: MLP 1 hidden layer, aktivasi Sigmoid |
+| 4. | Ferdinand Arya Wijaya | 32230071 | Comparison + Report |
+| 5. | Yosua Imanuel Widjaja | 32230073 | Varian 04: MLP 2 hidden layer, aktivasi ReLU |
+| 6. | Jonathan Kelvin Haslim | 32230077 | Varian 02: MLP 1 hidden layer, aktivasi Sigmoid |
+| 7. | Yehezkiel Petra Kairupan | 32230079 | Varian 04: MLP 2 hidden layer, aktivasi ReLU |
 
 > ⚠️ **Catatan:** Ganti nama, NIM, dan pembagian varian sesuai data kelompok yang sebenarnya.
 
